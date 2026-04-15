@@ -1,4 +1,4 @@
-# HarvestGuard AI
+# HarvestGuard AI <img width="1536" height="1024" alt="ChatGPT Image Apr 15, 2026, 07_58_52 PM" src="https://github.com/user-attachments/assets/54e22dac-6390-46cb-9c2c-d3b9d06c2fad" />
 
 HarvestGuard AI is a regional crop-stress and food-security decision-support prototype built with a FastAPI backend and a Next.js frontend. The project is structured around live API-driven environmental data, a hybrid scoring pipeline, explainable ML outputs, and a LangGraph orchestration layer that uses OpenAI only as the LLM provider.
 
@@ -179,4 +179,4 @@ Feedback submissions are stored in SQLite and can be used for continuous model r
 - The app is now point-driven and API-driven rather than relying on seeded demo regions in code.
 - OpenAI is used as the LLM provider only. Orchestration is built around LangGraph/LangChain.
 - The ML layer now persists artifacts and can consume `data/raw/training_labels.csv` when you provide real labeled rows, but the default fallback dataset is still synthetic until that file exists.
-- The long-form project vision still lives in [harvestguard_ai_master_plan.md](/c:/Users/MOHAMMAD%20FAIZ%20JABIR/Desktop/hyperbloom-v2/harvestguard_ai_master_plan.md).
+
