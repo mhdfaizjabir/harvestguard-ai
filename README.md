@@ -1,6 +1,21 @@
-# HarvestGuard AI <img width="1536" height="1024" alt="ChatGPT Image Apr 15, 2026, 07_58_52 PM" src="https://github.com/user-attachments/assets/54e22dac-6390-46cb-9c2c-d3b9d06c2fad" />
+<img width="1325" height="819" alt="Screenshot 2026-04-15 201535" src="https://github.com/user-attachments/assets/6f3492a8-493a-42bb-892a-70bc2e8aa74c" /># HarvestGuard AI <img width="1536" height="1024" alt="ChatGPT Image Apr 15, 2026, 07_58_52 PM" src="https://github.com/user-attachments/assets/54e22dac-6390-46cb-9c2c-d3b9d06c2fad" />
 
 HarvestGuard AI is a regional crop-stress and food-security decision-support prototype built with a FastAPI backend and a Next.js frontend. The project is structured around live API-driven environmental data, a hybrid scoring pipeline, explainable ML outputs, and a LangGraph orchestration layer that uses OpenAI only as the LLM provider.
+
+![Uploading Screenshot 2026-04-15 201325.png…]()
+
+<img width="1574" height="873" alt="Screenshot 2026-04-15 201346" src="https://github.com/user-attachments/assets/8d3a127d-f193-4b2c-82e5-882194cdf557" />
+
+<img width="1582" height="828" alt="Screenshot 2026-04-15 201405" src="https://github.com/user-attachments/assets/d08e9bee-6008-4133-ad9e-f5a8c5745ecd" />
+
+<img width="1565" height="748" alt="Screenshot 2026-04-15 201419" src="https://github.com/user-attachments/assets/aae824ac-fca6-4b33-9b8c-1d55ac8dd267" />
+
+<img width="1268" height="610" alt="Screenshot 2026-04-15 201504" src="https://github.com/user-attachments/assets/76e2066e-57ad-4974-8443-c992325655dc" />
+
+<img width="1267" height="724" alt="Screenshot 2026-04-15 201516" src="https://github.com/user-attachments/assets/6f91d8c2-d562-4744-98ee-baf67c25754b" />
+
+<img width="1325" height="819" alt="Screenshot 2026-04-15 201535" src="https://github.com/user-attachments/assets/4f097970-5b2a-4f4c-93a7-0cdfe68fd2ae" />
+
 
 ## What is implemented
 
