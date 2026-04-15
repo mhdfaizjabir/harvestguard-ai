@@ -3,7 +3,7 @@
 
 HarvestGuard AI is a regional crop-stress and food-security decision-support prototype built with a FastAPI backend and a Next.js frontend. The project is structured around live API-driven environmental data, a hybrid scoring pipeline, explainable ML outputs, and a LangGraph orchestration layer that uses OpenAI only as the LLM provider.
 
-![Uploading Screenshot 2026-04-15 201325.png…]()
+<img width="1504" height="872" alt="Screenshot 2026-04-15 201325" src="https://github.com/user-attachments/assets/2b09aed9-7163-4a8e-ba4c-25657ad3e28a" />
 
 <img width="1574" height="873" alt="Screenshot 2026-04-15 201346" src="https://github.com/user-attachments/assets/8d3a127d-f193-4b2c-82e5-882194cdf557" />
 
